@@ -38,7 +38,7 @@ To get started with the project, follow these steps:
 
 Here's a high-level overview of the project's folder structure:
 
-| assets 
+| assets
 | components
 | constants
 | hook
@@ -51,3 +51,15 @@ Here's a high-level overview of the project's folder structure:
 | eas.json
 | package-lock.json
 | package.json
+
+
+## Contributing
+
+Contributions are always welcome! If you'd like to contribute to the project, please follow the guidelines
+
+## Acknowledgments
+
+Special thanks to the React Native community and the creators of the libraries and tools used in this project, making mobile app development a breeze.
+
+Feel free to use this template as a starting point for your React Native Android project's README. Customize it with your project's specific details, app features, and relevant links. Happy coding!
+
