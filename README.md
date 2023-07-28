@@ -38,21 +38,21 @@ To get started with the project, follow these steps:
 
 Here's a high-level overview of the project's folder structure:
 
-| assets <br>
-| components <br>
+|── assets <br>
+|── components <br>
 | |── home <br>
 | |── products <br>
-| constants <br>
-| hook <br>
-| navigation <br>
-| screens <br>
-| .gitignore <br>
-| App.js <br>
-| app.json <br>
-| babel.config.js <br>
-| eas.json <br>
-| package-lock.json <br>
-| package.json <br>
+|── constants <br>
+|── hook <br>
+|── navigation <br>
+|── screens <br>
+|── .gitignore <br>
+|── App.js <br>
+|── app.json <br>
+|── babel.config.js <br>
+|── eas.json <br>
+|── package-lock.json <br>
+|── package.json <br>
 
 
 ## Contributing
