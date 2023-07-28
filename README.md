@@ -4,16 +4,6 @@ E-Commerce frontend application for my jewellery business
 ![business logo](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/0f1ffd92-c386-468b-b214-789ee0ac51c8)
 
 
-## Screenshots
-
-Here are some screenshots of the app in action:
-![WhatsApp Image 2023-07-28 at 3 57 10 PM](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/fd6b2e6d-5e2f-40af-bab2-a046169e50a8)
-![WhatsApp Image 2023-07-28 at 3 57 12 PM](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/006e9a76-0863-44ae-9e89-131205ac3209)
-![WhatsApp Image 2023-07-28 at 3 57 12 PM (1)](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/68bf101b-c676-4186-9927-49c17fba7543)
-![WhatsApp Image 2023-07-28 at 3 57 11 PM](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/649965d9-359f-4ff1-8d22-6dbee4d30e72)
-![WhatsApp Image 2023-07-28 at 3 57 11 PM (1)](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/7fce8874-129a-4610-909d-e1ef8bfe4f4e)
-
-
 ## Features
 
 - **React Native:** Utilized the power of React Native to build a cross-platform Android application with a single codebase, sharing components between iOS and Android.
@@ -66,4 +56,14 @@ Contributions are always welcome! If you'd like to contribute to the project, pl
 Special thanks to the React Native community and the creators of the libraries and tools used in this project, making mobile app development a breeze.
 
 Feel free to use this template as a starting point for your React Native Android project's README. Customize it with your project's specific details, app features, and relevant links. Happy coding!
+
+## Screenshots
+
+Here are some screenshots of the app in action:
+![WhatsApp Image 2023-07-28 at 3 57 10 PM](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/fd6b2e6d-5e2f-40af-bab2-a046169e50a8)
+![WhatsApp Image 2023-07-28 at 3 57 12 PM](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/006e9a76-0863-44ae-9e89-131205ac3209)
+![WhatsApp Image 2023-07-28 at 3 57 12 PM (1)](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/68bf101b-c676-4186-9927-49c17fba7543)
+![WhatsApp Image 2023-07-28 at 3 57 11 PM](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/649965d9-359f-4ff1-8d22-6dbee4d30e72)
+![WhatsApp Image 2023-07-28 at 3 57 11 PM (1)](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/7fce8874-129a-4610-909d-e1ef8bfe4f4e)
+
 
