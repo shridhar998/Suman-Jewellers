@@ -7,10 +7,12 @@ E-Commerce frontend application for my jewellery business
 ## Screenshots
 
 Here are some screenshots of the app in action:
+![WhatsApp Image 2023-07-28 at 3 57 10 PM](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/fd6b2e6d-5e2f-40af-bab2-a046169e50a8)
+![WhatsApp Image 2023-07-28 at 3 57 12 PM](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/006e9a76-0863-44ae-9e89-131205ac3209)
+![WhatsApp Image 2023-07-28 at 3 57 12 PM (1)](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/68bf101b-c676-4186-9927-49c17fba7543)
+![WhatsApp Image 2023-07-28 at 3 57 11 PM](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/649965d9-359f-4ff1-8d22-6dbee4d30e72)
+![WhatsApp Image 2023-07-28 at 3 57 11 PM (1)](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/7fce8874-129a-4610-909d-e1ef8bfe4f4e)
 
-![Screenshot 1](https://example.com/screenshots/screenshot1.png)
-![Screenshot 2](https://example.com/screenshots/screenshot2.png)
-![Screenshot 3](https://example.com/screenshots/screenshot3.png)
 
 ## Features
 
