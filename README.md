@@ -1,5 +1,5 @@
 # Suman-Jewellers
-E-Commerce frontend application for my jewellery business
+E-Commerce frontend application for a local jewellery business
 
 ![business logo](https://github.com/shridhar998/Suman-Jewellers/assets/83115648/0f1ffd92-c386-468b-b214-789ee0ac51c8)
 
